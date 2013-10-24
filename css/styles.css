@@ -16,7 +16,7 @@ li {
   float: left;
   line-height: 50px;
   list-style: none;
-  margin: 0 5px;
+margin: 0 5px;
   text-align: right;
 }
 
@@ -30,13 +30,14 @@ a {
   width: 150px;
 }
 
-#google a:hover{
+#google a:hover {
   background: url("../img/chrome.png") no-repeat 55px center;
 }
 
-#mozilla a:hover{
-  background: url("../img/firefox.png") no-repeat 20px center;
+#mozilla a:hover {
+  background: url("../img/firefox.png") no-repeat 50px center;
 }
+
 .showgrid {
         background: url("../img/12-col-grid.gif") !important;
 }
